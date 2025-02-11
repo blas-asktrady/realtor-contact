@@ -4,7 +4,9 @@ Python 3.9.6
 
 ## Environment variables
 
-Create a `.env` file in the root directory with the following variables:
+Add `.env`, `credentials.json` and `token.pickle` to the root directory.
+
+Link to download: https://drive.google.com/drive/folders/1AqKSkF4HuZUErK5oPxQumMUhyCg47cgv?usp=drive_link
 
 ## Create venv 
 ```bash
