@@ -1,0 +1,51 @@
+[
+  {
+    "agents": [
+      {
+        "name": "Mark Pattison and PorchLight Realty",
+        "zillow_profile": "https://www.zillow.com/profile/PorchLightRealtyTeam",
+        "linkedin": "https://linkedin.com/in/markapattison/"
+      },
+      {
+        "name": "Afroditi and Dean Aguilar Group",
+        "zillow_profile": "https://www.zillow.com/profile/Afroditi-Aguilar",
+        "linkedin": "https://www.linkedin.com/pub/dean-aguilar/57/386/670"
+      },
+      {
+        "name": "Joe Corbisiero",
+        "zillow_profile": "https://www.zillow.com/profile/DreamHomesTeam",
+        "linkedin": "https://www.linkedin.com/in/joesellssandiego/"
+      },
+      {
+        "name": "Emma Lefkowitz - The Barron Team",
+        "zillow_profile": "https://www.zillow.com/profile/The-Barron-Team",
+        "linkedin": "https://www.linkedin.com/in/emmalefkowitz/"
+      },
+      {
+        "name": "Ruth Pugh",
+        "zillow_profile": "https://www.zillow.com/profile/Ruth-Pugh",
+        "linkedin": "https://www.linkedin.com/in/ruth-pugh/"
+      },
+      {
+        "name": "Glen Henderson",
+        "zillow_profile": "https://www.zillow.com/profile/Glen-Henderson",
+        "linkedin": "http://www.linkedin.com/in/glenhenderson"
+      },
+      {
+        "name": "Kelly Marugg",
+        "zillow_profile": "https://www.zillow.com/profile/Sell-W-Kell-Marugg",
+        "linkedin": "http://www.linkedin.com/in/kellymarugg"
+      },
+      {
+        "name": "Melissa Steele",
+        "zillow_profile": "https://www.zillow.com/profile/steelesandiegohomes",
+        "linkedin": "https://www.linkedin.com/company/steele-san-diego-homes/"
+      },
+      {
+        "name": "Candace Thrower",
+        "zillow_profile": "https://www.zillow.com/profile/Candace-Thrower",
+        "linkedin": "https://www.linkedin.com/in/candace-m-thrower-72a82642/"
+      }
+    ]
+  }
+]

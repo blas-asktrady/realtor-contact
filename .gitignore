@@ -1,0 +1,7 @@
+venv/
+.env
+0_agents.json
+1_agents_with_linkedin.json
+2_agents_with_email_and_phone.json
+credentials.json
+token.pickle
